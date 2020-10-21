@@ -16,4 +16,5 @@ Die Übungsserien werden als Jupyter Notebook verfügbar sein.
 * Bitte füllen Sie folgenden Fragebogen zum Studienstart https://docs.google.com/forms/d/e/1FAIpQLSdNf0v98otcBkoYnhAKu0305dGf4oqOTHuMT9NsTnehyO6UwQ/viewform?usp=pp_url aus
 * Testen Sie Ihr Mathematisches Wissen dort einfach mal mit Kahoot! https://kahoot.it/challenge/04585148?challenge-id=44c06415-6162-412c-8df9-d0a9b753b51f_1602493062764
 * Sie finden unter divers ein Begrüßungsvideo des Studiendekans
+* Einen guten Einstieg in Git findet man unter https://rogerdudler.github.io/git-guide/index.de.html
 
