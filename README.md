@@ -12,6 +12,15 @@ Die Übung ist in Gruppen aufgeteilt. Diese finden von 12:00 - 13:30 und von 14:
 
 Die Übungsserien werden als Jupyter Notebook verfügbar sein. 
 
+## Evaluation
+Wir würden uns sehr freuen wenn Ihr die Vorlesung und Übung evaluieren würdet. Hierzu einfach auf den folgenden Link klicken
+
+Link: https://www.evaluation.uni-jena.de/lve/?e=25933&c=60bae4
+
+Befragungs-ID: 25933
+
+Erhebungs-Code: 60bae4
+
 ## Diverse Links und Materialien
 * Bitte füllen Sie folgenden Fragebogen zum Studienstart https://docs.google.com/forms/d/e/1FAIpQLSdNf0v98otcBkoYnhAKu0305dGf4oqOTHuMT9NsTnehyO6UwQ/viewform?usp=pp_url aus
 * Testen Sie Ihr Mathematisches Wissen dort einfach mal mit Kahoot! https://kahoot.it/challenge/04585148?challenge-id=44c06415-6162-412c-8df9-d0a9b753b51f_1602493062764
