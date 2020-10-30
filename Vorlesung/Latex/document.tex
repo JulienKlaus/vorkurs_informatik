@@ -40,6 +40,9 @@ style=authoryear-icomp]{biblatex}
 
 % Für Quellcode
 \usepackage{listings}
+% Statt Listings wollen wir Quellcode da stehen haben
+\renewcommand\lstlistlistingname{Quellcode}
+\renewcommand{\lstlistingname}{Quellcode}
 \usepackage{pgffor}
 % Verschönerungen für Python Code
 \usepackage{accsupp}   
@@ -208,6 +211,8 @@ print(s[1::2]).
 	
 	% Abbildungsverzeichnis
 	\listoffigures
+	
+	\lstlistoflistings
 	
 	% Literaturverzeichnis
 	\printbibliography 
